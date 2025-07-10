@@ -1,1 +1,1 @@
- https://elifkvsr.github.io/deneme/
+https://elifkvsr.github.io/dai.web/
